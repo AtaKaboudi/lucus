@@ -1,0 +1,13 @@
+name
+ Ata,Ali,Mohamed,Moncef,Fathi,aziz,mehdi,malek,yassine
+lastname
+Kaboudi,Sadouud,Atrous,Salhab,Ben Arous,ayadi,Ben Dali,Habbachi,Smaoui,Fendri
+age
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39
+capital
+tunis,paris,madrid,lisbonne,berlin,london,rome,ankara,alger,rabat,tripoli,cairo,washington,pekin,johansbourgh
+city_tunis
+sousse,tunis,beja,benzart,monastir,kasserine,El Jem,Kairouan,Jandouba,Jarjis,ben Guerden
+country
+Tunisia,Algeria,Morroco,Libiya,Egypt,France,Spain,Germany,United Kingdom,United States Of america,Peru,Argentina,China,Japan,
+ 
